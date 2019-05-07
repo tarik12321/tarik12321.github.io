@@ -1,19 +1,25 @@
 body {
   background-color:  black;
   color: white;
+  font-family: Verdana;
 }
 
 p {
   font-style: italic;
   text-align: justify;
   font-size: 17px
+  font-family: Verdana;
 }
 h1 {
+  font-weight: normal;
   text-align: center;
   line-height: 25px
+  font-family: Verdana;
 }
 
 h2 {
+  font-weight: normal;
+  font-variant: small-caps;
   text-align: left;
+  font-family: Verdana;
 }
-font-family: Verdana;
