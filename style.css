@@ -9,6 +9,7 @@ p {
   text-align: justify;
   font-size: 17px
   font-family: Verdana;
+  line-height: 110%;
 }
 h1 {
   font-weight: normal;
@@ -22,4 +23,6 @@ h2 {
   font-variant: small-caps;
   text-align: left;
   font-family: Verdana;
+  word-spacing: 3px;
+  letter-spacing: -1px;
 }
