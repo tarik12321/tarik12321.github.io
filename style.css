@@ -1,5 +1,5 @@
 body {
-  background-color:  black;
+  background-color: black;
   color: white;
   font-family: Verdana;
 }
@@ -33,6 +33,21 @@ ul {
   margin-left: -10px;
   margin-right: -4px;
   padding-left: 10px;
+  padding-top: 10px;
+  padding-bottom: 13px;
+  word-spacing: 5px;
+}
+
+li {
+  display: inline-block;
+}
+
+li a {
+  text-decoration: none;
+}
+
+li a:hover{
+  background-color: chocolate;
   padding-top: 10px;
   padding-bottom: 13px;
 }
