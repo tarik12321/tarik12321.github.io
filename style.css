@@ -31,5 +31,8 @@ ul {
   background-color: darkorange;
   margin-top: 20px;
   margin-left: -10px;
+  margin-right: -4px;
   padding-left: 10px;
+  padding-top: 10px;
+  padding-bottom: 13px;
 }
