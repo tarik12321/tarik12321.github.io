@@ -35,6 +35,7 @@ ul {
   padding-top: 10px;
   padding-bottom: 13px;
   word-spacing: 5px;
+  border-bottom: 5px solid green;
 }
 
 li {
