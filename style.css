@@ -11,6 +11,11 @@ p {
   font-family: Verdana;
   line-height: 110%;
 }
+
+h2, p {
+  border: 4px  double darkorange;
+}
+
 h1 {
   font-weight: normal;
   text-align: center;
@@ -24,6 +29,7 @@ h2 {
   font-family: Verdana;
   word-spacing: 3px;
   letter-spacing: -1px;
+  background-color: darkorange;
 }
 
 ul {
@@ -36,6 +42,10 @@ ul {
   padding-bottom: 13px;
   word-spacing: 5px;
   border-bottom: 5px solid green;
+}
+
+img {
+   border: 2px solid red;
 }
 
 li {
