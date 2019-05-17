@@ -2,6 +2,8 @@ body {
   background-color: black;
   color: white;
   font-family: Verdana;
+  margin: 0px 1% ;
+  padding: 0px
 }
 
 p {
@@ -10,6 +12,7 @@ p {
   font-size: 17px;
   font-family: Verdana;
   line-height: 110%;
+  border-radius: 10px 10px 10px 10px;
 }
 
 h2, p {
@@ -17,6 +20,7 @@ h2, p {
 }
 
 h1 {
+   /* padding: 5px 1px 0px 10%; */
   font-weight: normal;
   text-align: center;
   font-family: Verdana;
@@ -30,6 +34,7 @@ h2 {
   word-spacing: 3px;
   letter-spacing: -1px;
   background-color: darkorange;
+  border-radius: 10px 10px 10px 10px;
 }
 
 ul {
@@ -54,10 +59,29 @@ li {
 
 li a {
   text-decoration: none;
+  color: ghostwhite;
+  font-size: 20px
 }
 
 li a:hover{
   background-color: chocolate;
   padding-top: 10px;
   padding-bottom: 13px;
+}
+
+p.vraag {
+
+}
+
+p.antwoord {
+  color: yellow;
+  background-color: yellow;
+}
+
+.antwoord:hover {
+  color: black;
+}
+
+#uitleg {
+  
 }
